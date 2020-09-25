@@ -1,0 +1,28 @@
+
+    img {
+      height: 20vh;
+    }
+
+    .col {
+      margin-top: 10px;
+      margin-bottom: 10px;
+    }
+
+    a {
+      color: #007bff !important;
+      font-size: 1.1rem;
+      font-weight: 500;
+    }
+
+    .cross {
+      position: absolute;
+      right: 10px;
+      top: 2px;
+      background: #000000;
+      padding: 5px;
+      border-radius: 30px;
+      color: white;
+      font-weight: bold;
+      cursor: pointer;
+    }
+  
